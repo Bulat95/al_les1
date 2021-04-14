@@ -1,0 +1,13 @@
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\bin\Debug\netcoreapp3.1\algorithms_lesson_1.exe
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\bin\Debug\netcoreapp3.1\algorithms_lesson_1.deps.json
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\bin\Debug\netcoreapp3.1\algorithms_lesson_1.runtimeconfig.json
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\bin\Debug\netcoreapp3.1\algorithms_lesson_1.runtimeconfig.dev.json
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\bin\Debug\netcoreapp3.1\algorithms_lesson_1.dll
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\bin\Debug\netcoreapp3.1\algorithms_lesson_1.pdb
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.csprojAssemblyReference.cache
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.AssemblyInfoInputs.cache
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.AssemblyInfo.cs
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.csproj.CoreCompileInputs.cache
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.dll
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.pdb
+D:\Repositories\GeekBrains\algorithms\lesson 1\algorithms_lesson_1\algorithms_lesson_1\obj\Debug\netcoreapp3.1\algorithms_lesson_1.genruntimeconfig.cache
